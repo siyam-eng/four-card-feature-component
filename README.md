@@ -1,6 +1,6 @@
-# Frontend Mentor - Product preview card component solution
+# Frontend Mentor - Four card feature section solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 
 
@@ -14,8 +14,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/siyam-eng/product-preview-card-component)
-- Live Site URL: [Add live site URL here](https://siyam-eng.github.io/product-preview-card-component)
+- Solution URL: [Add solution URL here](https://github.com/siyam-eng/four-card-feature-component)
+- Live Site URL: [Add live site URL here](https://siyam-eng.github.io/four-card-feature-component)
 
 ## My process
 
@@ -23,11 +23,10 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-
+- CSS Grid
 
 ### What I learned
-Learned to use different media files for different screen sizes. 
+Learned and practiced grid basics. Especially, the use of repeat, clamp seemed interesting.  
 ## Author
 
 - Website - [Siyam Ahmed](https://siyamahmed.com)
